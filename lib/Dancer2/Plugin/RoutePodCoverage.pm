@@ -3,7 +3,6 @@ package Dancer2::Plugin::RoutePodCoverage;
 use strict;
 use warnings;
 
-use Dancer2;
 use Dancer2::Plugin;
 use Pod::Simple::Search;
 use Pod::Simple::SimpleTree;
